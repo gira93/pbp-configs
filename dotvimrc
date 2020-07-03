@@ -1,0 +1,11 @@
+set nocompatible
+syntax on
+
+set clipboard=unnamedplus
+
+set number
+
+set expandtab
+set shiftwidth=2
+set tabstop=2
+
