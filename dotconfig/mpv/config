@@ -1,0 +1,9 @@
+ao=pulse
+# cache=153600
+autofit-smaller=90%
+autofit-larger=90%
+volume-max=150    # 0&9 keys controls the volume
+
+hwdec=auto
+ytdl-format=bestvideo[height<=?720][fps<=?30][vcodec!=?vp9]+bestaudio/best
+

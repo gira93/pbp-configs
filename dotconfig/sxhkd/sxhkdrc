@@ -1,0 +1,12 @@
+XF86MonBrightnessUp
+  light -A 10
+
+XF86MonBrightnessDown
+  light -U 10
+
+XF86AudioRaiseVolume
+  pamixer -i 10
+
+XF86AudioLowerVolume
+  pamixer -d 10
+
