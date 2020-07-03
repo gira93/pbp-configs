@@ -1,7 +1,7 @@
 # Pinebook pro config files
-This are my configs for a mostly functional PBP linux install, it should be distro-agnostic but it's been tested on Manjaro Arm.
+Theese are my configs for a mostly functional PBP linux install, it should be distro-agnostic but it's been tested on Manjaro Arm.
 
-Configurations files are for a basic DWM install (with autostart patch)
+Configuration files are for a basic DWM install (with autostart patch)
 
 ## Requirements
 - dwm (with autostart patch)
